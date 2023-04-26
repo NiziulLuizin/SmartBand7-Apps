@@ -31,6 +31,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Нажмите ещё раз для подтверждения",
     "de-DE": "",
     "es-ES": "",
+    "pt-BR": "Toque novamente para confirmar",
   },
   action_launch: {
     "en-US": "Launch",
