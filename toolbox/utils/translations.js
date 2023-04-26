@@ -40,6 +40,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Запустить",
     "de-DE": "Starten",
     "es-ES": "Ejecutar",
+    "pt-BR": "Executar",
   },
   uninstall_complete: {
     "en-US": "Uninstalled",
