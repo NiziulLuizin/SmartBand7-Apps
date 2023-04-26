@@ -22,6 +22,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Удалить",
     "de-DE": "Deinstallieren",
     "es-ES": "Desinstalar",
+    "pt-BR": "Desinstalar",
   },
   tap_to_confirm: {
     "en-US": "Tap again to confirm",
