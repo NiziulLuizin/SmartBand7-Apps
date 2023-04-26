@@ -7,6 +7,7 @@ const TEMPLATE = {
     "ru-RU": "",
     "de-DE": "",
     "es-ES": "",
+    "pt-BR": "",
   }
 }
 
