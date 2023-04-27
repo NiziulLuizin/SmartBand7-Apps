@@ -58,6 +58,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Перезагрузите устройство для завершения",
     "de-DE": "Bitte das Gerät neustarten um abzuschließen",
     "es-ES": "Por favor reinicie el dispositivo",
+    "pt-BR": "Por favor, reinicie o dispositivo para concluir",
   },
   field_size: {
     "en-US": "Size",
