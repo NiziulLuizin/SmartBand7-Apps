@@ -67,6 +67,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Размер",
     "de-DE": "Größe",
     "es-ES": "Tamaño",
+    "pt-BR": "Tamanho do aplicativo",
   },
   field_vendor: {
     "en-US": "Vendor",
