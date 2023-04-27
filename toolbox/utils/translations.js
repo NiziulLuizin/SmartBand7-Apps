@@ -94,6 +94,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Также удалять внешние файлы",
     "de-DE": "ext Dateien bei Deinstallation NICHT bebehalten",
     "es-ES": "No conservar archivos ext. después de desinstalar",
+    "pt-BR": "Remover arquivos .ext na desinstalação",
   },
   headline_adv: {
     "en-US": "Advanced",
