@@ -76,6 +76,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Разработчик",
     "de-DE": "Hersteller",
     "es-ES": "Desarrollador",
+    "pt-BR": "Desenvolvedor",
   },
   file_size_ext: {
     "en-US": "Size (ext. config)",
