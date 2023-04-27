@@ -49,6 +49,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Удалено",
     "de-DE": "Deinstalliert",
     "es-ES": "Desinstalado",
+    "pt-BR": "Desinstalado",
   },
   apps_notice_uninstall: {
     "en-US": "Please reboot device to finish",
