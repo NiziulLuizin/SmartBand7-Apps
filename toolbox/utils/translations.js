@@ -103,6 +103,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Дополнительно",
     "de-DE": "Erweitert",
     "es-ES": "Avanzado",
+    "pt-BR": "Avançado",
   },
 };
 
