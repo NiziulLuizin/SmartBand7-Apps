@@ -118,6 +118,7 @@ export const APP_LIST_TRANSLATIONS = {
     "ru-RU": "Приложения",
     "de-DE": "",
     "es-ES": "Apps",
+    "pt-BR": "Aplicativos",
   },
 };
 
