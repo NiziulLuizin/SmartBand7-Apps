@@ -22,6 +22,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Удалить",
     "de-DE": "Deinstallieren",
     "es-ES": "Desinstalar",
+    "pt-BR": "Desinstalar",
   },
   tap_to_confirm: {
     "en-US": "Tap again to confirm",
@@ -30,6 +31,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Нажмите ещё раз для подтверждения",
     "de-DE": "",
     "es-ES": "",
+    "pt-BR": "Toque novamente para confirmar",
   },
   action_launch: {
     "en-US": "Launch",
@@ -38,6 +40,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Запустить",
     "de-DE": "Starten",
     "es-ES": "Ejecutar",
+    "pt-BR": "Executar",
   },
   uninstall_complete: {
     "en-US": "Uninstalled",
@@ -46,6 +49,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Удалено",
     "de-DE": "Deinstalliert",
     "es-ES": "Desinstalado",
+    "pt-BR": "Desinstalado",
   },
   apps_notice_uninstall: {
     "en-US": "Please reboot device to finish",
@@ -54,6 +58,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Перезагрузите устройство для завершения",
     "de-DE": "Bitte das Gerät neustarten um abzuschließen",
     "es-ES": "Por favor reinicie el dispositivo",
+    "pt-BR": "Por favor, reinicie o dispositivo para concluir",
   },
   field_size: {
     "en-US": "Size",
@@ -62,6 +67,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Размер",
     "de-DE": "Größe",
     "es-ES": "Tamaño",
+    "pt-BR": "Tamanho do aplicativo",
   },
   field_vendor: {
     "en-US": "Vendor",
@@ -70,6 +76,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Разработчик",
     "de-DE": "Hersteller",
     "es-ES": "Desarrollador",
+    "pt-BR": "Desenvolvedor",
   },
   file_size_ext: {
     "en-US": "Size (ext. config)",
@@ -78,6 +85,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Размер (внешн. файлы)",
     "de-DE": "Größe (ext. config)",
     "es-ES": "Tamaño (ext. config)",
+    "pt-BR": "Tamanho (ext. config)",
   },
   conf_full: {
     "en-US": "Don't keep ext. files on uninstall",
@@ -86,6 +94,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Также удалять внешние файлы",
     "de-DE": "ext Dateien bei Deinstallation NICHT bebehalten",
     "es-ES": "No conservar archivos ext. después de desinstalar",
+    "pt-BR": "Remover arquivos .ext na desinstalação",
   },
   headline_adv: {
     "en-US": "Advanced",
@@ -94,6 +103,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Дополнительно",
     "de-DE": "Erweitert",
     "es-ES": "Avanzado",
+    "pt-BR": "Avançado",
   },
 };
 
