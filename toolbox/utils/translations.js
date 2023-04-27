@@ -85,6 +85,7 @@ export const APP_EDIT_TRANSLATIONS = {
     "ru-RU": "Размер (внешн. файлы)",
     "de-DE": "Größe (ext. config)",
     "es-ES": "Tamaño (ext. config)",
+    "pt-BR": "Tamanho (ext. config)",
   },
   conf_full: {
     "en-US": "Don't keep ext. files on uninstall",
