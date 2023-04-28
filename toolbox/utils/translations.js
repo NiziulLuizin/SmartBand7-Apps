@@ -178,6 +178,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Копировать",
     "de-DE": "Kopieren",
     "es-ES": "Copiar",
+    "pt-BR": "Copiar",
   },
   file_delete: {
     "en-US": "Delete",
