@@ -169,6 +169,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Вырезать",
     "de-DE": "Ausschneiden",
     "es-ES": "Cortar",
+    "pt-BR": "Recortar",
   },
   file_copy: {
     "en-US": "Copy",
