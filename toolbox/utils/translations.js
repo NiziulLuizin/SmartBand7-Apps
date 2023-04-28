@@ -142,6 +142,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Просм. текст",
     "de-DE": "Zeige als Text",
     "es-ES": "Mostrar como texto",
+    "pt-BR": "Abrir como texto",
   },
   file_view_as_bin: {
     "en-US": "View as binary",
