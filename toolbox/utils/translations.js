@@ -196,6 +196,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Изменить...",
     "de-DE": "Bearbeiten...",
     "es-ES": "Editar...",
+    "pt-BR": "Editar...",
   },
   edit_enable_danger: {
     "en-US": "To edit this file/folder, unlock \"Danger features\" in app settings",
