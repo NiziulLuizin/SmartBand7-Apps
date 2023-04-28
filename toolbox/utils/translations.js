@@ -229,6 +229,7 @@ export const REBOOT_CONFIRM_TRANSLATIONS = {
     "ru-RU": "Нажмите для подтверждения",
     "de-DE": "Klick zum Bestätigen",
     "es-ES": "Click para confirmar",
+    "pt-BR": "Clique para confirmar",
   },
 };
 
