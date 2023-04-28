@@ -187,6 +187,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Удалить",
     "de-DE": "Löschen",
     "es-ES": "Borrar",
+    "pt-BR": "Deletar",
   },
   file_manage: {
     "en-US": "Edit...",
