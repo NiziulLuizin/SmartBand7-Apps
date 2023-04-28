@@ -160,6 +160,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Вставить",
     "de-DE": "Einfügen",
     "es-ES": "Pegar",
+    "pt-BR": "Colar",
   },
   file_cut: {
     "en-US": "Cut",
