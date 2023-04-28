@@ -151,6 +151,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Просм. бинарно",
     "de-DE": "Zeige binär",
     "es-ES": "Mostrar como binario",
+    "pt-BR": "Ver em hexadecimal",
   },
   file_paste: {
     "en-US": "Paste",
