@@ -133,6 +133,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Прсм. изображение",
     "de-DE": "Zeige als Bild",
     "es-ES": "Mostrar como imagen",
+    "pt-BR": "Abrir como imagem",
   },
   file_view_as_text: {
     "en-US": "View as text",
@@ -141,6 +142,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Просм. текст",
     "de-DE": "Zeige als Text",
     "es-ES": "Mostrar como texto",
+    "pt-BR": "Abrir como texto",
   },
   file_view_as_bin: {
     "en-US": "View as binary",
@@ -149,6 +151,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Просм. бинарно",
     "de-DE": "Zeige binär",
     "es-ES": "Mostrar como binario",
+    "pt-BR": "Ver em hexadecimal",
   },
   file_paste: {
     "en-US": "Paste",
@@ -157,6 +160,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Вставить",
     "de-DE": "Einfügen",
     "es-ES": "Pegar",
+    "pt-BR": "Colar",
   },
   file_cut: {
     "en-US": "Cut",
@@ -165,6 +169,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Вырезать",
     "de-DE": "Ausschneiden",
     "es-ES": "Cortar",
+    "pt-BR": "Recortar",
   },
   file_copy: {
     "en-US": "Copy",
@@ -173,6 +178,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Копировать",
     "de-DE": "Kopieren",
     "es-ES": "Copiar",
+    "pt-BR": "Copiar",
   },
   file_delete: {
     "en-US": "Delete",
@@ -181,6 +187,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Удалить",
     "de-DE": "Löschen",
     "es-ES": "Borrar",
+    "pt-BR": "Deletar",
   },
   file_manage: {
     "en-US": "Edit...",
@@ -189,6 +196,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Изменить...",
     "de-DE": "Bearbeiten...",
     "es-ES": "Editar...",
+    "pt-BR": "Editar...",
   },
   edit_enable_danger: {
     "en-US": "To edit this file/folder, unlock \"Danger features\" in app settings",
@@ -197,6 +205,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Чтобы редактировать этот объект, разблок. \"Опасные функции\" в настройках",
     "de-DE": "",
     "es-ES": "",
+    "pt-BR": "Para editar este arquivo/pasta, desbloqueie \"Recursos perigosos\" nas configurações do aplicativo",
   }
 };
 
