@@ -205,6 +205,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Чтобы редактировать этот объект, разблок. \"Опасные функции\" в настройках",
     "de-DE": "",
     "es-ES": "",
+    "pt-BR": "Para editar este arquivo/pasta, desbloqueie \"Recursos perigosos\" nas configurações do aplicativo",
   }
 };
 
