@@ -133,6 +133,7 @@ export const FILE_EDIT_TRANSLATIONS = {
     "ru-RU": "Прсм. изображение",
     "de-DE": "Zeige als Bild",
     "es-ES": "Mostrar como imagen",
+    "pt-BR": "Abrir como imagem",
   },
   file_view_as_text: {
     "en-US": "View as text",
