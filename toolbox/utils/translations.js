@@ -217,6 +217,7 @@ export const MAIN_SCREEN_TRANSLATIONS = {
     "ru-RU": "Настроить",
     "de-DE": "Einstellungen",
     "es-ES": "Ajustes",
+    "pt-BR": "Configurações",
   },
 };
 
