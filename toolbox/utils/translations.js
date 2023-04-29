@@ -278,6 +278,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Главная",
     "de-DE": "Anpassen",
     "es-ES": "Editar",
+    "pt-BR": "Personalizar",
   },
   settings_lang: {
     "en-US": "Language",
