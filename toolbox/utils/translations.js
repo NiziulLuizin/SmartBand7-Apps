@@ -241,6 +241,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Запоминать посл. таймер",
     "de-DE": "Letzten Timerwert bebehalten",
     "es-ES": "Mantener valor del último temporizador",
+    "pt-BR": "Manter o valor do último temporizador",
   },
   cfg_show_size_in_list: {
     // cn/de/es made with Google Translate
@@ -250,6 +251,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Размер файлов в проводнике",
     "de-DE": "Dateigröße im Explorer anzeigen",
     "es-ES": "Mostrar el tamaño del archivo en el explorador",
+    "pt-BR": "Mostrar tamanho dos arquivos no explorer",
   },
   cfg_fs_unit: {
     "en-US": "Use Base-2 filesize\n1KB = 1024 B",
@@ -258,6 +260,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Считать размер файлов в осн. 2\n1KB = 1024 B",
     "de-DE": "Base-2 Dateigröße\n1KB = 1024 B",
     "es-ES": "Usar tamaño de archivo base-2\n1KB = 1024 B",
+    "pt-BR": "Exibir tamanho dos arquivos em Base-2\n1KB = 1024 B",
   },
   cfg_danger_mode: {
     "en-US": "Unlock danger features",
@@ -266,6 +269,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Разблок. опасные функции",
     "de-DE": "",
     "es-ES": "Mostrar funcionalidades peligrosas",
+    "pt-BR": "Desbloquear recursos perigosos",
   },
   settings_ui: {
     "en-US": "Customize",
@@ -274,6 +278,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Главная",
     "de-DE": "Anpassen",
     "es-ES": "Editar",
+    "pt-BR": "Personalizar",
   },
   settings_lang: {
     "en-US": "Language",
@@ -282,6 +287,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Язык",
     "de-DE": "Sprache",
     "es-ES": "Idioma",
+    "pt-BR": "Idioma",
   },
   action_info: {
     "en-US": "About",
@@ -290,6 +296,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "О Toolbox",
     "de-DE": "Über...",
     "es-ES": "Acerca de",
+    "pt-BR": "Detalhes do app",
   },
   headline_tools: {
     "en-US": "Settings:",
@@ -298,6 +305,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Настройки:",
     "de-DE": "",
     "es-ES": "",
+    "pt-BR": "Configurações",
   },
   prop_font_size: {
     "en-US": "Reader font size",
@@ -306,6 +314,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Разм. текста при чтении:",
     "de-DE": "",
     "es-ES": "",
+    "pt-BR": "Tamanho da fonte do editor",
   }
 };
 
