@@ -314,6 +314,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Разм. текста при чтении:",
     "de-DE": "",
     "es-ES": "",
+    "pt-BR": "Tamanho da fonte do editor",
   }
 };
 
