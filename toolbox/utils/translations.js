@@ -241,6 +241,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Запоминать посл. таймер",
     "de-DE": "Letzten Timerwert bebehalten",
     "es-ES": "Mantener valor del último temporizador",
+    "pt-BR": "Manter o valor do último temporizador",
   },
   cfg_show_size_in_list: {
     // cn/de/es made with Google Translate
