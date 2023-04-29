@@ -269,6 +269,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Разблок. опасные функции",
     "de-DE": "",
     "es-ES": "Mostrar funcionalidades peligrosas",
+    "pt-BR": "Desbloquear recursos perigosos",
   },
   settings_ui: {
     "en-US": "Customize",
