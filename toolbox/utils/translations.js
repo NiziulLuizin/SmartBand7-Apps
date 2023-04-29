@@ -305,6 +305,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Настройки:",
     "de-DE": "",
     "es-ES": "",
+    "pt-BR": "Configurações",
   },
   prop_font_size: {
     "en-US": "Reader font size",
