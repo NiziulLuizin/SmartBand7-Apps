@@ -260,6 +260,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Считать размер файлов в осн. 2\n1KB = 1024 B",
     "de-DE": "Base-2 Dateigröße\n1KB = 1024 B",
     "es-ES": "Usar tamaño de archivo base-2\n1KB = 1024 B",
+    "pt-BR": "Exibir tamanho dos arquivos em Base-2\n1KB = 1024 B",
   },
   cfg_danger_mode: {
     "en-US": "Unlock danger features",
