@@ -287,6 +287,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Язык",
     "de-DE": "Sprache",
     "es-ES": "Idioma",
+    "pt-BR": "Idioma",
   },
   action_info: {
     "en-US": "About",
