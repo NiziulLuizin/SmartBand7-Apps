@@ -296,6 +296,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "О Toolbox",
     "de-DE": "Über...",
     "es-ES": "Acerca de",
+    "pt-BR": "Detalhes do app",
   },
   headline_tools: {
     "en-US": "Settings:",
