@@ -251,6 +251,7 @@ export const SETTINGS_HOME_TRANSLATIONS = {
     "ru-RU": "Размер файлов в проводнике",
     "de-DE": "Dateigröße im Explorer anzeigen",
     "es-ES": "Mostrar el tamaño del archivo en el explorador",
+    "pt-BR": "Mostrar tamanho dos arquivos no explorer",
   },
   cfg_fs_unit: {
     "en-US": "Use Base-2 filesize\n1KB = 1024 B",
