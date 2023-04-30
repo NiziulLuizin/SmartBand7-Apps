@@ -383,6 +383,7 @@ export const TIMER_TRANSLATIONS = {
     "ru-RU": "Начать",
     "de-DE": "Start",
     "es-ES": "Iniciar",
+    "pt-BR": "Iniciar",
   },
   timer_stop: {
     "en-US": "Cancel",
