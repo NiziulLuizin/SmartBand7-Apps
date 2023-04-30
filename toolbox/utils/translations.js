@@ -362,6 +362,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Приложения",
     "de-DE": "Apps",
     "es-ES": "Apps",
+    "pt-BR": "Aplicativos",
   },
   storage_unknown: {
     "en-US": "Unknown",
