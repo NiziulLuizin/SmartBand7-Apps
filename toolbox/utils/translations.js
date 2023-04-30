@@ -344,6 +344,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "ZeppOS",
     "de-DE": "ZeppOS",
     "es-ES": "ZeppOS",
+    "pt-BR": "ZeppOS",
   },
   storage_watchface: {
     "en-US": "Watchfaces",
