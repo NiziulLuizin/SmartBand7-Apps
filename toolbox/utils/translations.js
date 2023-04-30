@@ -326,6 +326,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Всего",
     "de-DE": "Gesamt",
     "es-ES": "Total",
+    "pt-BR": "Total",
   },
   storage_free: {
     "en-US": "Free",
