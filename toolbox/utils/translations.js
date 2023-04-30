@@ -413,7 +413,7 @@ export const TOGGLE_DANGER_TRANSLATIONS = {
       "pueden perder todas las configuraciones de ese dispositivo.",
     "pt-BR": "Esta opção mostrará alguns recursos, "+
       "isso pode fazer com que seu dispositivo falhe ao inicializar. "+
-      "Continuando, você concorda que em algum momento tudo "+
+      "Continuando, você concorda que em algum momento todas "+
       "as configurações desse dispositivo podem ser perdidas.",
   },
   danger_agree: {
