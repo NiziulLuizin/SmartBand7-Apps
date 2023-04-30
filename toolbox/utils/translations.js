@@ -353,6 +353,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Циферблаты",
     "de-DE": "Ziffernblätter",
     "es-ES": "Watchfaces",
+    "pt-BR": "Watchfaces",
   },
   storage_app: {
     "en-US": "Apps",
