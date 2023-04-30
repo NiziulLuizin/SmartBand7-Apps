@@ -371,6 +371,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Неизвестно",
     "de-DE": "Unbekannt",
     "es-ES": "Desconocido",
+    "pt-BR": "Desconhecido",
   },
 };
 
