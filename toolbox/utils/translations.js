@@ -392,6 +392,7 @@ export const TIMER_TRANSLATIONS = {
     "ru-RU": "Отмена",
     "de-DE": "Stop",
     "es-ES": "Detener",
+    "pt-BR": "Parar",
   },
 };
 
