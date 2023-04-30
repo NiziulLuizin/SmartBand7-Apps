@@ -411,6 +411,10 @@ export const TOGGLE_DANGER_TRANSLATIONS = {
       "que pueden causar que su dispositivo no arranque. "+
       "Continuando, usted acepta que en algún momento se "+
       "pueden perder todas las configuraciones de ese dispositivo.",
+    "pt-BR": "Esta opção mostrará alguns recursos, "+
+      "isso pode fazer com que seu dispositivo falhe ao inicializar. "+
+      "Continuando, você concorda que em algum momento tudo "+
+      "as configurações desse dispositivo podem ser perdidas.",
   },
   danger_agree: {
     "en-US": "Agree, enable",
@@ -419,6 +423,7 @@ export const TOGGLE_DANGER_TRANSLATIONS = {
     "ru-RU": "",
     "de-De": "",
     "es-ES": "Aceptar, habilitar",
+    "pt-BR": "Aceitar e continuar",
   },
 };
 
