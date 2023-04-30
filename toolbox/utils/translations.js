@@ -423,6 +423,7 @@ export const TOGGLE_DANGER_TRANSLATIONS = {
     "ru-RU": "",
     "de-De": "",
     "es-ES": "Aceptar, habilitar",
+    "pt-BR": "Aceitar e continuar",
   },
 };
 
