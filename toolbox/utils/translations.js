@@ -335,6 +335,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Свободно",
     "de-DE": "Frei",
     "es-ES": "Libre",
+    "pt-BR": "Livre",
   },
   storage_system: {
     "en-US": "ZeppOS",
