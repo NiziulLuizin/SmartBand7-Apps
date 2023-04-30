@@ -326,6 +326,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Всего",
     "de-DE": "Gesamt",
     "es-ES": "Total",
+    "pt-BR": "Total",
   },
   storage_free: {
     "en-US": "Free",
@@ -334,6 +335,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Свободно",
     "de-DE": "Frei",
     "es-ES": "Libre",
+    "pt-BR": "Livre",
   },
   storage_system: {
     "en-US": "ZeppOS",
@@ -342,6 +344,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "ZeppOS",
     "de-DE": "ZeppOS",
     "es-ES": "ZeppOS",
+    "pt-BR": "ZeppOS",
   },
   storage_watchface: {
     "en-US": "Watchfaces",
@@ -350,6 +353,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Циферблаты",
     "de-DE": "Ziffernblätter",
     "es-ES": "Watchfaces",
+    "pt-BR": "Watchfaces",
   },
   storage_app: {
     "en-US": "Apps",
@@ -358,6 +362,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Приложения",
     "de-DE": "Apps",
     "es-ES": "Apps",
+    "pt-BR": "Aplicativos",
   },
   storage_unknown: {
     "en-US": "Unknown",
@@ -366,6 +371,7 @@ export const STORAGE_INFO_TRANSLATIONS = {
     "ru-RU": "Неизвестно",
     "de-DE": "Unbekannt",
     "es-ES": "Desconocido",
+    "pt-BR": "Desconhecido",
   },
 };
 
