@@ -547,6 +547,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Выключить",
     "de-DE": "Ausschalten",
     "es-ES": "Apagar",
+    "pt-BR": "Desligar",
   },
   qs_reboot: {
     "en-US": "Reboot",
