@@ -574,5 +574,6 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Пробуждение при повороте",
     "de-DE": "Aufwachen am Handgelenk",
     "es-ES": "Wake on Wrist",
+    "pt-BR": "Levantar pulso p/ ver info.",
   },
 };
