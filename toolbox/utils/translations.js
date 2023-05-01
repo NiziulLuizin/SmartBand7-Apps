@@ -439,6 +439,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Упр. приложениями",
     "de-DE": "Apps Manager",
     "es-ES": "Administrador de aplicacioness",
+    "pt-BR": "Gerenciador de aplicativos",
   },
   qs_files: {
     "en-US": "File manager",
@@ -447,6 +448,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Файловый менеджер",
     "de-DE": "Dateimanager",
     "es-ES": "Administrador de archivos",
+    "pt-BR": "Gerenciador de arquivos",
   },
   qs_storage: {
     "en-US": "Disk usage",
@@ -455,6 +457,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Память",
     "de-DE": "Speichernutzung",
     "es-ES": "Uso de almacenamiento",
+    "pt-BR": "Uso do armazenamento",
   },
   qs_dnd: {
     "en-US": "DND settings",
@@ -463,6 +466,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Не беспокоить",
     "de-DE": "BNS Einstellungen",
     "es-ES": "Ajustes DND",
+    "pt-BR": "Modo Não Perturbe",
   },
   qs_flashlight: {
     "en-US": "Flashlight app",
@@ -471,6 +475,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Фонарик",
     "de-DE": "Taschenlampe App",
     "es-ES": "Luz flash",
+    "pt-BR": "Lanterna",
   },
   qs_camera: {
     "en-US": "Camera app",
@@ -479,6 +484,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Камера",
     "de-DE": "Kamera App",
     "es-ES": "Camara",
+    "pt-BR": "Câmera",
   },
   qs_settings: {
     "en-US": "Settings app",
@@ -487,6 +493,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Настройки",
     "de-DE": "Einstellungen App",
     "es-ES": "Ajustes",
+    "pt-BR": "Configurações da Mi Band",
   },
   qs_brightness_btn: {
     "en-US": "Brightness",
@@ -495,6 +502,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Яркость",
     "de-DE": "Helligkeit",
     "es-ES": "Brillo",
+    "pt-BR": "Brilho",
   },
   qs_aod: {
     "en-US": "AOD",
@@ -503,6 +511,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "AOD",
     "de-DE": "AOD",
     "es-ES": "AOD",
+    "pt-BR": "AOD",
   },
   qs_powersave: {
     "en-US": "Powersave",
@@ -511,6 +520,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Энергосбережение",
     "de-DE": "Energiesparen",
     "es-ES": "Ahorro de energía",
+    "pt-BR": "Economia de energia",
   },
   qs_system: {
     "en-US": "System settings",
@@ -519,6 +529,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Настройки системы",
     "de-DE": "Systemeinstellungen",
     "es-ES": "Ajustes del sistema",
+    "pt-BR": "Configurações do sistema",
   },
   qs_applistsort: {
     "en-US": "App list sort",
@@ -527,6 +538,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Настр. меню приложений",
     "de-DE": "Apps sortieren",
     "es-ES": "Ordener lista de apps",
+    "pt-BR": "Ordenar lista de aplicativos",
   },
   qs_poweroff: {
     "en-US": "Power off",
@@ -535,6 +547,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Выключить",
     "de-DE": "Ausschalten",
     "es-ES": "Apagar",
+    "pt-BR": "Desligar",
   },
   qs_reboot: {
     "en-US": "Reboot",
@@ -543,6 +556,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Перезагрузить",
     "de-DE": "Neustart",
     "es-ES": "Reiniciar",
+    "pt-BR": "Reiniciar",
   },
   qs_timer: {
     "en-US": "Background timer",
@@ -551,6 +565,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Фоновый таймер",
     "de-DE": "Hintergrund Timer",
     "es-ES": "Temporizador de fondo",
+    "pt-BR": "Temporizador",
   },
   qs_wake_on_wrist: {
     "en-US": "Wake on Wrist",
@@ -559,5 +574,6 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Пробуждение при повороте",
     "de-DE": "Aufwachen am Handgelenk",
     "es-ES": "Wake on Wrist",
+    "pt-BR": "Levantar pulso p/ ver info.",
   },
 };
