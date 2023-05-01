@@ -556,6 +556,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Перезагрузить",
     "de-DE": "Neustart",
     "es-ES": "Reiniciar",
+    "pt-BR": "Reiniciar",
   },
   qs_timer: {
     "en-US": "Background timer",
