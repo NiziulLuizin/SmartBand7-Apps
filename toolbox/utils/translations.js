@@ -466,6 +466,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Не беспокоить",
     "de-DE": "BNS Einstellungen",
     "es-ES": "Ajustes DND",
+    "pt-BR": "Modo Não Perturbe",
   },
   qs_flashlight: {
     "en-US": "Flashlight app",
