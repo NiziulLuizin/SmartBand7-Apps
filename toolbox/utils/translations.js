@@ -475,6 +475,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Фонарик",
     "de-DE": "Taschenlampe App",
     "es-ES": "Luz flash",
+    "pt-BR": "Lanterna",
   },
   qs_camera: {
     "en-US": "Camera app",
