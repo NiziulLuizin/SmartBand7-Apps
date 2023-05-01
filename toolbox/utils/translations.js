@@ -502,6 +502,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Яркость",
     "de-DE": "Helligkeit",
     "es-ES": "Brillo",
+    "pt-BR": "Brilho",
   },
   qs_aod: {
     "en-US": "AOD",
