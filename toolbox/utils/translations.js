@@ -484,6 +484,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Камера",
     "de-DE": "Kamera App",
     "es-ES": "Camara",
+    "pt-BR": "Câmera",
   },
   qs_settings: {
     "en-US": "Settings app",
