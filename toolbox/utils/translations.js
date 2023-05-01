@@ -538,6 +538,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Настр. меню приложений",
     "de-DE": "Apps sortieren",
     "es-ES": "Ordener lista de apps",
+    "pt-BR": "Ordenar lista de aplicativos",
   },
   qs_poweroff: {
     "en-US": "Power off",
