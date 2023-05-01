@@ -439,6 +439,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Упр. приложениями",
     "de-DE": "Apps Manager",
     "es-ES": "Administrador de aplicacioness",
+    "pt-BR": "Gerenciador de aplicativos",
   },
   qs_files: {
     "en-US": "File manager",
