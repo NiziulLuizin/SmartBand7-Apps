@@ -520,6 +520,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Энергосбережение",
     "de-DE": "Energiesparen",
     "es-ES": "Ahorro de energía",
+    "pt-BR": "Economia de energia",
   },
   qs_system: {
     "en-US": "System settings",
