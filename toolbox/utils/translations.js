@@ -565,6 +565,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Фоновый таймер",
     "de-DE": "Hintergrund Timer",
     "es-ES": "Temporizador de fondo",
+    "pt-BR": "Temporizador",
   },
   qs_wake_on_wrist: {
     "en-US": "Wake on Wrist",
