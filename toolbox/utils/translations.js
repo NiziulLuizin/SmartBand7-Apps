@@ -448,6 +448,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Файловый менеджер",
     "de-DE": "Dateimanager",
     "es-ES": "Administrador de archivos",
+    "pt-BR": "Gerenciador de arquivos",
   },
   qs_storage: {
     "en-US": "Disk usage",
