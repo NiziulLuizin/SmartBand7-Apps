@@ -457,6 +457,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Память",
     "de-DE": "Speichernutzung",
     "es-ES": "Uso de almacenamiento",
+    "pt-BR": "Uso do armazenamento",
   },
   qs_dnd: {
     "en-US": "DND settings",
