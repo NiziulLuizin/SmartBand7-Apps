@@ -511,6 +511,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "AOD",
     "de-DE": "AOD",
     "es-ES": "AOD",
+    "pt-BR": "AOD",
   },
   qs_powersave: {
     "en-US": "Powersave",
