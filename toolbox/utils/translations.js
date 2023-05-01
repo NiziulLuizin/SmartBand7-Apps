@@ -493,6 +493,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Настройки",
     "de-DE": "Einstellungen App",
     "es-ES": "Ajustes",
+    "pt-BR": "Configurações da Mi Band",
   },
   qs_brightness_btn: {
     "en-US": "Brightness",
