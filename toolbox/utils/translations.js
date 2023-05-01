@@ -529,6 +529,7 @@ export const QS_TILE_NAMES = {
     "ru-RU": "Настройки системы",
     "de-DE": "Systemeinstellungen",
     "es-ES": "Ajustes del sistema",
+    "pt-BR": "Configurações do sistema",
   },
   qs_applistsort: {
     "en-US": "App list sort",
